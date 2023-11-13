@@ -187,7 +187,8 @@
   border-image-width: 40px;
   border-image-slice: 10;
   background-size: cover;
-  border: 43px solid;
+  border: 45px solid;
   -webkit-background-clip: border;
+  -moz-background-clip: border;
 }
  
